@@ -7,4 +7,4 @@ Features:
 - Search weather by any city in real time
 - Uses weather API to fetch live weather data
 - Displays temperature and weather conditions
-- Responsive UI for desktop and mobile
+
